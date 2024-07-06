@@ -40,4 +40,4 @@ Neurochain is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for 
 
 ## Contact
 
-If you have any questions or need help with the project, please don't hesitate to reach out to us at [kosasih@neurochain.io](mailto:kosasih@neurochain.io).
+If you have any questions or need help with the project, please don't hesitate to reach out to us at [info@neurochain.io](mailto:info@neurochain.io).
