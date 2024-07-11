@@ -1,0 +1,10 @@
+import numpy as np
+from src.neural_networks.neural_network import NeuralNetwork
+
+class NeuroForensics:
+    def __init__(self):
+        self.neural_network = NeuralNetwork()
+
+    def detect_fraud(self, transaction):
+        # Implement neuro-forensics logic
+        pass
