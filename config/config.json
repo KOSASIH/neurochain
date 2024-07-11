@@ -1,0 +1,21 @@
+{
+  "neural_network": {
+    "hidden_layers": 2,
+    "neurons_per_layer": 128,
+    "activation_function": "relu"
+  },
+  "quantum_resistant_cryptography": {
+    "lattice_based_cryptography": {
+      "dimension": 1024,
+      " modulus": 65537
+    },
+    "code_based_cryptography": {
+      "code_length": 128,
+      "error_correction": "reed_solomon"
+    }
+  },
+  "node": {
+    "port": 8080,
+    "host": "localhost"
+  }
+}
